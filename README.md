@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 - [Interview Evaluation System](https://github.com/SAISUPRIYAPAVARALA/InterviewEvalSoftware)
 - [Sentiment Analysis of Agnipath Yojna](https://github.com/SAISUPRIYAPAVARALA/Sentiment-Analysis-On-Agnipath-Scheme)
 - [Music Application (Full Stack Application)](https://github.com/SAISUPRIYAPAVARALA/fullStack)
+- [Question Generation](https://github.com/SAISUPRIYAPAVARALA/QuestionGeneration)
+- [ChatGPT access in chrome](https://github.com/SAISUPRIYAPAVARALA/ChatgptAccessthroughChromePlugin)
 
 Feel free to explore my repositories and don't hesitate to reach out!
 
