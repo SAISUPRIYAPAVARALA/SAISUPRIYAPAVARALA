@@ -54,3 +54,20 @@ Here are some ideas to get you started:
 - Music based full stack application
 
 
+## Connect with Me
+- [LinkedIn](www.linkedin.com/in/pavaralasaisupriya)
+
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SAISUPRIYAPAVARALA&show_icons=true)
+
+## Featured Repositories
+- [Interview Evaluation System](https://github.com/SAISUPRIYAPAVARALA/InterviewEvalSoftware)
+- [Sentiment Analysis of Agnipath Yojna](https://github.com/SAISUPRIYAPAVARALA/Sentiment-Analysis-On-Agnipath-Scheme)
+- [Music Application (Full Stack Application)](https://github.com/SAISUPRIYAPAVARALA/fullStack)
+
+Feel free to explore my repositories and don't hesitate to reach out!
+
+⭐️ Thank you for visiting!
+
+
