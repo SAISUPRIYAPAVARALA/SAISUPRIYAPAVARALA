@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Sai Supriya Pavarala!👋
 
 <!--
 **SAISUPRIYAPAVARALA/SAISUPRIYAPAVARALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to my GitHub profile! 🚀
+
+## About Me
+- 💼 Working as Product Development Intern at Enligence Technologies
+- 🎓 B-Tech pre-final year (Computer Science and Engineering) from Vishnu Institute of Technology
+- 🌱 Currently learning DSA
+- 💬 Ask me about LLM and Prompt Engineering
+- 📫 How to reach me: [saisupriyapavarala@gmail.com](mailto:saisupriyapavarala@gmail.com)
+
+## Technologies & Tools
+- Highly fluent in Python and Java
+- Comfortable with C and Haskell
+- Familiar with Node.js, JavaScript, R
+- Worked with HTML5, CSS, and SQL
+- Experienced with:
+  - Google's Firebase
+  - Pinecone Vector Database
+  - PostgreSQL
+  - MongoDB
+  - Weaviate Vector DB
+  - GIT & GITHUB
+  - Docker Technology
+  - Quivr
+  - SuperAGI
+  - CNN
+  - Transformers
+    
+
+## Current Projects
+- Virtual Interview API
+- Ielts Essay Grader
+
+
+## Completed Projects
+- Sentimental Analysis on Agnipath Yojana
+- Speaker Identification using CNN and transformers
+- Chrome Plugin (GPT access)
+- Music based full stack application
+
+
